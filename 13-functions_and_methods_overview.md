@@ -23,7 +23,7 @@
       which demonstrates basic usage of the routine. 
 
 ## Links
-* [NumPy v1.17 Manual][manual]
+* [NumPy Manual][manual]
     * [NumPy User Guide][userguide] >>  
       [Quickstart tutorial][tutorial] >>  
       [Copies and Views][copies] >>  
@@ -31,11 +31,11 @@
     * [NumPy Reference][reference] >>  
       [Routines][routines]
 
-[comment]: # (tags)
-[manual]: https://numpy.org/doc/1.17/index.html
-[userguide]: https://numpy.org/doc/1.17/user/index.html
-[tutorial]: https://numpy.org/doc/1.17/user/quickstart.html#
-[copies]: https://numpy.org/doc/1.17/user/quickstart.html#copies-and-views
-[overview]: https://numpy.org/doc/1.17/user/quickstart.html#functions-and-methods-overview
-[reference]: https://numpy.org/doc/1.17/reference/index.html
-[routines]: https://numpy.org/doc/1.17/reference/routines.html
+[comment]: #(tags)
+[manual]: https://numpy.org/devdocs/
+[userguide]: https://numpy.org/devdocs/user/index.html
+[tutorial]: https://numpy.org/devdocs/user/quickstart.html
+[copies]: https://numpy.org/devdocs/user/quickstart.html#copies-and-views
+[overview]: https://numpy.org/devdocs/user/quickstart.html#functions-and-methods-overview
+[reference]: https://numpy.org/devdocs/reference/index.html
+[routines]: https://numpy.org/devdocs/reference/routines.html
