@@ -1,2 +1,5 @@
-*.ipynb_checkpoints/
+# vim
 *~
+
+# Jupyter Notebook
+.ipynb_checkpoints
