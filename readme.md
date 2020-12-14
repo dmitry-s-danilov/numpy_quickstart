@@ -19,34 +19,34 @@ to n-dimensional arrays without using for-loops;
 
 ## Table of Contents
 
-- The Basics
+- The basics
   - [x] An example
-  - [x] Array Creation
-  - [x] Printing Arrays
-  - [x] Basic Operations
-  - [x] Universal Functions
-  - [x] Indexing, Slicing and Iterating
-- Shape Manipulation
+  - [x] Array creation
+  - [x] Printing arrays
+  - [x] Basic operations
+  - [x] Universal functions
+  - [x] Indexing, slicing and iterating
+- Shape manipulation
   - [x] Changing the shape of an array
   - [x] Stacking together different arrays
   - [x] Splitting one array into several smaller ones
-- Copies and Views
-  - [x] No Copy at All
-  - [x] View or Shallow Copy
-  - [x] Deep Copy
-  - [x] Functions and Methods Overview
-- Less Basic
+- Copies and views
+  - [x] No copy at all
+  - [x] View or shallow copy
+  - [x] Deep copy
+  - [x] Functions and methods overview
+- Less basic
   - [x] Broadcasting rules
 - Advanced indexing and index tricks
-  - [x] Indexing with Arrays of Indices
-  - [x] Indexing with Boolean Arrays
+  - [x] Indexing with arrays of indices
+  - [x] Indexing with boolean arrays
   - [x] The ix_() function
   - [ ] Indexing with strings
-- Linear Algebra
-  - [ ] Simple Array Operations
-- Tricks and Tips
-  - [ ] “Automatic” Reshaping
-  - [ ] Vector Stacking
-  - [ ]  Histograms
+- Linear algebra
+  - [ ] Simple array operations
+- Tricks and tips
+  - [ ] “Automatic” reshaping
+  - [ ] Vector stacking
+  - [ ] Histograms
 
 [tutorial]: https://numpy.org/doc/stable/user/quickstart.html
