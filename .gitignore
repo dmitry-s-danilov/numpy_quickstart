@@ -1,6 +1,5 @@
-# Jupyter Notebook
+# Jupyter
 .ipynb_checkpoints/
 
 # vim
 *~
-*.swp
